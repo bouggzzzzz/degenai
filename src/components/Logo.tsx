@@ -6,7 +6,7 @@ const Logo = () => {
         alt="Degenai Logo"
         className="w-16 h-16"
       />
-      <h1 className="text-4xl font-bold bg-gradient-to-r from-primary via-secondary to-accent bg-clip-text text-transparent">
+      <h1 className="text-4xl font-bold whitespace-nowrap bg-gradient-to-r from-primary via-secondary to-accent bg-clip-text text-transparent">
         DegenAI
       </h1>
     </div>
